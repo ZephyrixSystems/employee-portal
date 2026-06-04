@@ -1,4 +1,4 @@
-#Sophia Martinez
+Sophia Martinez
 
 Role: Security Engineer
 
