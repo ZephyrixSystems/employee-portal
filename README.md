@@ -12,11 +12,11 @@ Zephyrix Systems develops secure research and analytics solutions for enterprise
 
 ## Team
 
-- Sarah Chen - CTO
-- Marcus Reed - Security Engineer
-- Emma Brooks - Product Manager
-- Ryan Patel - Backend Developer
-- Olivia Turner - Data Analyst
-- David Ross - DevOps Engineer
-- Sophia Miller - UX Designer
-- Ethan Black - Senior Research Engineer
+- Emma Johnson - CTO
+- Sophia Martinez - Security Engineer
+- Olivia Williams - Product Manager
+- Ava Davis - Backend Developer
+- Eden Smith - Senior Research Engineer
+- Noah Miller - DevOps Engineer
+- Ethan Anderson - UX Designer
+- Lucas Taylor - DevOps Engineer
