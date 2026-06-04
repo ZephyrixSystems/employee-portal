@@ -1,6 +1,6 @@
 Lucas Taylor
 
-Role: DevOps Engineer
+Role: Data Analyst
 
 Joined: April 2022
 
