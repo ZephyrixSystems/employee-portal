@@ -20,3 +20,9 @@ Zephyrix Systems develops secure research and analytics solutions for enterprise
 - Noah Miller - DevOps Engineer
 - Ethan Anderson - UX Designer
 - Lucas Taylor - Data Analyst
+
+  ## Resources
+
+- Employee Handbook
+- Project Documentation
+- [Team Highlights](https://www.instagram.com/zephyrixsystems/)
