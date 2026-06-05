@@ -2,37 +2,39 @@
 
 ## ThreatVision
 
-Owner: Sophia Martinez
+Threat intelligence platform used for monitoring and analyzing security threats.
 
 Team Members:
+- Ava Davis
+- Sophia Martinez
+- Eden Smith
 
-* Eden Smith
-* Noah Miller
-
-Status: Active
+Status:
+In Progress
 
 ---
 
-## SecureOps
+## SecurePortal
 
-Owner: Ava Davis
+Internal employee management platform.
 
 Team Members:
+- Emma Johnson
+- Noah Miller
+- Lucas Taylor
 
-* Lucas Taylor
-* Ethan Anderson
-
-Status: Active
+Status:
+Beta Testing
 
 ---
 
-## Internal Portal
+## InfraWatch
 
-Owner: Olivia Williams
+Infrastructure monitoring and alerting system.
 
 Team Members:
+- Olivia Williams
+- Ethan Anderson
 
-* Ava Davis
-* Ethan Anderson
-
-Status: Maintenance
+Status:
+Operational
