@@ -4,14 +4,14 @@ Date: 2026-07-10
 
 ## Attendees
 
-* Ava Davis
-* Noah Miller
-* Ethan Anderson
+- Ava Davis
+- Noah Miller
+- Ethan Anderson
 
-## Discussion
+## Discussion Topics
 
-* Q3 roadmap
-* Infrastructure scaling
+- Q3 roadmap
+- Infrastructure scaling
 
 ## Notes
 
