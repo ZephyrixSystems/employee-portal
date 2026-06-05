@@ -22,7 +22,7 @@ The platform provides centralized access to employee information, department ass
 * Eden Smith - Senior Research Engineer
 * Noah Miller - DevOps Engineer
 * Ethan Anderson - UX Designer
-* Lucas Taylor - DevOps Engineer
+* Lucas Taylor - Data Analyst
 
 ### Objectives
 
