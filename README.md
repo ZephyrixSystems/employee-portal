@@ -19,4 +19,4 @@ Zephyrix Systems develops secure research and analytics solutions for enterprise
 - Eden Smith - Senior Research Engineer
 - Noah Miller - DevOps Engineer
 - Ethan Anderson - UX Designer
-- Lucas Taylor - DevOps Engineer
+- Lucas Taylor - Data Analyst
