@@ -1,4 +1,4 @@
-# Eden Smith
+Eden Smith
 Employee ID: TMP-08
 
 Role: Senior Research Engineer
